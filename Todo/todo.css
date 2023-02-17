@@ -1,0 +1,7 @@
+input:invalid{
+    color: red;
+
+}
+button[type="submit"]:hover{
+    background-color:#39B70A;
+}
